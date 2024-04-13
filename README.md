@@ -1,3 +1,10 @@
+# Problem Statement
+
+You can find the problem statement here - [MetroCard](https://www.geektrust.com/challenge/metro-card)
+
+# Result
+
+![MetroCard_Geektrust](https://github.com/pgprajwal/Personal-Archive/blob/main/images/Geektrust_Metro_Card.jpeg)
 
 # Pre-requisites
 * Java 1.8/1.11/1.15
@@ -29,5 +36,6 @@ in the build.gradle if your main class has changed.
 
 # Help
 
-You can refer our help documents [here](https://help.geektrust.in)
+You can refer our help documents [here](https://help.geektrust.com)
+
 You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
