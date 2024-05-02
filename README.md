@@ -12,8 +12,6 @@ You can find the problem statement here - [MetroCard](https://www.geektrust.com/
 
 # How to run the code
 
-We have provided scripts to execute the code. 
-
 Use `run.sh` if you are Linux/Unix/macOS Operating systems and `run.bat` if you are on Windows.
 
 Internally both the scripts run the following commands 
@@ -36,6 +34,5 @@ in the build.gradle if your main class has changed.
 
 # Help
 
-You can refer our help documents [here](https://help.geektrust.com)
-
-You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
+* You can refer help documents [here](https://help.geektrust.com)
+* You can read build instructions [here](https://github.com/geektrust/coding-problem-artefacts/tree/master/Java)
